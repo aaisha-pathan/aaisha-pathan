@@ -3,10 +3,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=4000&pause=350&color=45B6FE&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Aspiring+AI%2FML+Engineer" alt="Typing SVG" /></a>
 </h1>
 
-<h4 align="left">📚 Student @ University of Waterloo</h4>
+#### 📚 Student @ University of Waterloo
 
-
-<h3 align="center">My Tech Stack</h3>
+### 💻 My Tech Stack
 
 
 <p align="left">
